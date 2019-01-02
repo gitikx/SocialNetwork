@@ -1,0 +1,9 @@
+*.class
+*.idea
+
+# Directories #
+/build/
+/bin/
+target/
+/out/
+/test/
